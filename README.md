@@ -3,6 +3,5 @@ Nasci em 2015.
 Me formei na USP IME (Institudo de Matemática e Estatística) em Ciência da Computação.
 Hoje sou cientista e desenvolvedor/ceo da Bratec.
 Nasci em São Paulo.
-Colégios em que estudei: Colégio Amorim Santa Tereza
 
 <img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/a1bc3178-bf5e-458b-a310-57743e41c18b" />
